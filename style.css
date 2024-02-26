@@ -1,0 +1,49 @@
+h1{
+    color: #e26abe;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 40px;
+text-align: center;
+}
+
+img{
+    text-align:end;
+
+    width: 300px;
+}
+
+div{
+    text-align: center;
+    align-items: center;
+}
+
+
+
+
+    
+
+
+ 
+  
+
+   video{
+    
+    body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+    }
+    
+    .contenedor {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; 
+    }
+    
+    video {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    width: 600px
+   }
+  
